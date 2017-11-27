@@ -1,3 +1,5 @@
+Updated model_spec to include signature_name. This fixed the error `{ Error: input tensor alias not found in signature: images. Inputs expected to be in the set {inputs}.`
+
 # tensorflow-serving-node-client
 Node gRPC client for TensorFlow Serving server
 
